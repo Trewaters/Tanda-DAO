@@ -1,5 +1,5 @@
 # Tanda-DAO
-[![GitHub version](https://badge.fury.io/gh/Trewaters/Tanda-DAO.svg)](https://badge.fury.io/gh/Trewaters/Tanda-DAO)
+[![GitHub version](https://badge.fury.io/gh/Trewaters%2FACDao.svg)](https://badge.fury.io/gh/Trewaters%2FACDao)
 
 Tanda DAO [version 1.0.0](https://badge.fury.io/hooks/github)
 
