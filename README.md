@@ -41,7 +41,7 @@ Geo start planning by joining a Tanda DAO!
 
 ## What is Tanda DAO?
 
-Tanda DAO allows users get money they would normally from their community when they need it. Everyone pays back what they borrow. Tanda DAO teaches members to budget and build savings while they get money to use for bills.
+Tanda DAO allows users get money from their community when they need it. Everyone pays back what they borrow. Tanda DAO teaches members to budget and build savings while they get money to use for bills.
 
 ## How can Tanda DAO help?
 
