@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Tanda-DAO
+# Tanda DAO
+
 [![GitHub version](https://badge.fury.io/gh/Trewaters%2FACDao.svg)](https://badge.fury.io/gh/Trewaters%2FACDao)
 
 Tanda DAO [version 1.0.0](https://badge.fury.io/hooks/github)
@@ -75,7 +75,6 @@ Cycles is the DAOs way of tracking funding windows. The cycle is agreed on by th
 Pacts charges a 3% fee (based on league funding level) to all comrades when they are created. Plus each comrade will make a 20% deposit (based on league funding level) to the DAO. This deposit is returned at the end of the Pact term. A comrades deposit will also be used in full to pay missed cycle payments and thus not returned to that comrade at the end of the Pact term.
 
 Penalties or "Strikes" are given when a Comrade fails to pay during the cycle funding window. A member with one (1) strike has all their Pact deposits and fees doubled. The second (2nd) strike will ban that member (Lens  wallet address) for life. A member can have strikes removed by paying his debt owed to the comrades plus "Apology" money. The member will pay seven (7) times the amount they forfeited. This will be split amongst the Comrades they defaulted on.
-=======
 # TandaDao
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
