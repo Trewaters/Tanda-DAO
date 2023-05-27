@@ -10,8 +10,6 @@
   },
   "private": true,
   "dependencies": {
-
-  },
-  "devDependencies": {
+    "bagels": "^0.1.21"
   }
 }
