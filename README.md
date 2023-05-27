@@ -82,7 +82,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 **"main"** branch is for development of the front end to Tanda DAO.
 
+`ng serve`
+
 **"bagelsProto"** branch is for prototyping the solidity contract. I would like to learn Polygon too because it is more cost effective. [bagels](https://github.com/Alex-Neo-Projects/bagels) is a solidity scaffolding project in alpha. I heard about it at ETH Denver 2023. Join their Discord and help this two dev OSS project buidl. Slides from their [presentation](https://docs.google.com/presentation/d/1Vu4-oC52tJloBiP8bzF1oEgv2dQiuGFWVwyaRIZCSX0/edit#slide=id.g2111c514ece_0_7).
+
+type: `bagels` in the root directory of the project. Window to `http://localhost:9091/` will open to view the contract prototype and GUI.
 
 ## Development server
 
