@@ -80,6 +80,10 @@ Penalties or "Strikes" are given when a Comrade fails to pay during the cycle fu
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
+**"main"** branch is for development of the front end to Tanda DAO.
+
+**"bagelsProto"** branch is for prototyping the solidity contract. I would like to learn Polygon too because it is more cost effective. [bagels](https://github.com/Alex-Neo-Projects/bagels) is a solidity scaffolding project in alpha. I heard about it at ETH Denver 2023. Join their Discord and help this two dev OSS project buidl. Slides from their [presentation](https://docs.google.com/presentation/d/1Vu4-oC52tJloBiP8bzF1oEgv2dQiuGFWVwyaRIZCSX0/edit#slide=id.g2111c514ece_0_7).
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
