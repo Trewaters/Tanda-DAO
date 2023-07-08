@@ -151,6 +151,8 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 * following this Tutorial for web3 authentication. Front End
 https://abhik.hashnode.dev/nextjs-13-using-next-auth-the-web3-way
 
+* invite to [Sending.Me](https://app.sending.me/share/?squad=!rRMhRHDCVbncdsvReE:hs.sending.me&via=hs.sending.me) Web3 messaging. Discord clone for Tanda DAO discussions. Testing for a future integration with Tanda DAO.
+
 ## Roadmap
 
 
