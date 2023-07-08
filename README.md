@@ -1,32 +1,3 @@
-# Create T3 App
-
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
-
-## What's next? How do I make an app with this?
-
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
-
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
-
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
-
-## Learn More
-
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
-
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
-
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
-
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
-
 # Tanda DAO
 
 [![GitHub version](https://badge.fury.io/gh/Trewaters%2FACDao.svg)](https://badge.fury.io/gh/Trewaters%2FACDao)
@@ -107,11 +78,21 @@ Pacts charges a 3% fee (based on league funding level) to all comrades when they
 
 Penalties or "Strikes" are given when a Comrade fails to pay during the cycle funding window. A member with one (1) strike has all their Pact deposits and fees doubled. The second (2nd) strike will ban that member (Lens  wallet address) for life. A member can have strikes removed by paying his debt owed to the comrades plus "Apology" money. The member will pay seven (7) times the amount they forfeited. This will be split amongst the Comrades they defaulted on.
 
-## DEVELOPER SECTION (below)
+## DEVELOPER SECTION 🔽
 
 
+If you are not familiar with the different technologies used in this project, please refer to the respective docs. 
 
-### Branches
+- [Next.js](https://nextjs.org)
+- [NextAuth.js](https://next-auth.js.org)
+- [Prisma](https://prisma.io)
+- [Tailwind CSS](https://tailwindcss.com)
+- [tRPC](https://trpc.io)
+- [TypeScript](https://www.typescriptlang.org)
+- [T3 Stack, docs](https://create.t3.gg/)
+- [T3 Stack, tutorials](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available)
+
+### Git Branches explained
 
 **"main"** branch is for development of the front end to Tanda DAO.
 
@@ -121,20 +102,13 @@ Run ` ` for a dev server. Navigate to `http://localhost:4200/`. The application 
 
 type: `bagels` in the root directory of the project. Window to `http://localhost:9091/` will open to view the contract prototype and GUI.
 
-
 ## Code scaffolding
-
 
 ## Build
 
-
 ## Running unit tests
 
-
 ## Running end-to-end tests
-
-
-
 
 ## CONTRIBUTIONS
 
@@ -151,11 +125,13 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 * following this Tutorial for web3 authentication. Front End
 https://abhik.hashnode.dev/nextjs-13-using-next-auth-the-web3-way
 
-* invite to [Sending.Me](https://app.sending.me/share/?squad=!rRMhRHDCVbncdsvReE:hs.sending.me&via=hs.sending.me) Web3 messaging. Discord clone for Tanda DAO discussions. Testing for a future integration with Tanda DAO.
+* Discussion Group at [Sending.Me](https://app.sending.me/share/?squad=!rRMhRHDCVbncdsvReE:hs.sending.me&via=hs.sending.me) Web3 messaging. Discord clone for Tanda DAO. Testing this app for a future integration.
 
 ## Roadmap
 
+### Deploy app to live host.
 
+Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
 
 ### User Stories
 
