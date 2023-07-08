@@ -146,9 +146,13 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 - **Andre** - _Initial work_ - [andre]()
 
-## Notes
+## Notes, TO DO, and other stuff
+
+* following this Tutorial for web3 authentication. Front End
+https://abhik.hashnode.dev/nextjs-13-using-next-auth-the-web3-way
 
 ## Roadmap
+
 
 
 ### User Stories
