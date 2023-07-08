@@ -94,15 +94,15 @@ If you are not familiar with the different technologies used in this project, pl
 
 ### Git Branches explained
 
-**"main"** branch is for development of the front end to Tanda DAO.
+**"[main](https://github.com/Trewaters/Tanda-DAO)"** branch is for development of the front end to Tanda DAO.
 
 Run ` ` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-**"bagelsProto"** branch is for prototyping the solidity contract. I would like to learn Polygon too because it is more cost effective. [bagels](https://github.com/Alex-Neo-Projects/bagels) is a solidity scaffolding project in alpha. I heard about it at ETH Denver 2023. Join their Discord and help this two dev OSS project buidl. Slides from their [presentation](https://docs.google.com/presentation/d/1Vu4-oC52tJloBiP8bzF1oEgv2dQiuGFWVwyaRIZCSX0/edit#slide=id.g2111c514ece_0_7).
+**"[bagelsProto](https://github.com/Trewaters/Tanda-DAO/tree/bagelsProto)"** branch is for prototyping the solidity contract. I would like to learn Polygon too because it is more cost effective. [bagels](https://github.com/Alex-Neo-Projects/bagels) is a solidity scaffolding project in alpha. I heard about it at ETH Denver 2023. Join their Discord and help this two dev OSS project buidl. Slides from their [presentation](https://docs.google.com/presentation/d/1Vu4-oC52tJloBiP8bzF1oEgv2dQiuGFWVwyaRIZCSX0/edit#slide=id.g2111c514ece_0_7).
 
 type: `bagels` in the root directory of the project. Window to `http://localhost:9091/` will open to view the contract prototype and GUI.
 
-**"t3Frontend"** is for prototyping the front end to Tanda DAO. Uses the Next.js React framework.
+**"[t3Frontend](https://github.com/Trewaters/Tanda-DAO/tree/t3Frontend)"** is for prototyping the front end to Tanda DAO. Uses the Next.js React framework.
 
 ## Code scaffolding
 
