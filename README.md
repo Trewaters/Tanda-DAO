@@ -14,23 +14,7 @@ Tanda DAO is for the economically disadvantaged. Anyone who lives paycheck-to-pa
 
 ## What is Tanda DAO?
 
-Tanda DAO allows users get funds from their community when they need it. Everyone pays back what they borrow. Tanda DAO teaches members to budget and build savings while they receive funds they can use for bills, etc.
-
-### How can Tanda DAO help?
-
-Tanda DAO can help anyone that doesn't have funds in a savings account. If you are out of funds before your next paycheck this peer-to-peer lending DAO will teach you financial independence. How to get out of credit card debt with the same paycheck and the assistance of your comrades.
-
-**Why is Tanda useful?**
-
-DAO funding in a straight forward and secure way. The app offers the following benefits:
-
-* a platform for comrades to pool their resources and invest in high-income ventures, when normally could not afford the investment on their own.
-
-* Fosters community and networking by requiring each member to have a social account, like Lens, connected to their EVM wallet.
-
-* Offers insurance protection to comrades in case of unforeseen circumstances. Encourages financial responsibility and accountability.
-
-* Enables members to plan for their future by knowing the date of their pay-out and making big plans based on it.
+*...Moved to the [Wiki](https://github.com/Trewaters/Tanda-DAO/wiki/What-is-Tanda-DAO%3F)*
 
 ## Get Started
 
@@ -119,16 +103,18 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Notes, TO DO, and other stuff
 
-* following this Tutorial for web3 authentication. Front End
-https://abhik.hashnode.dev/nextjs-13-using-next-auth-the-web3-way
+See the [open issues](https://github.com/Trewaters/Tanda-DAO/issues) for a list of proposed features (and known issues).
+
 
 * Discussion Group at [Sending.Me](https://app.sending.me/share/?squad=!rRMhRHDCVbncdsvReE:hs.sending.me&via=hs.sending.me) Web3 messaging. Discord clone for Tanda DAO. Testing this app for a future integration.
 
-## Roadmap
+### Tasks list
 
-See the [open issues](https://github.com/Trewaters/Tanda-DAO/issues) for a list of proposed features (and known issues).
+* following this Tutorial for web3 authentication. Front End
+https://abhik.hashnode.dev/nextjs-13-using-next-auth-the-web3-way
 
-### Deploy app to live host.
+
+* [] To Do: Deploy Tanda DAO front end to live host.
 
 Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
 
