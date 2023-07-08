@@ -18,47 +18,7 @@ Tanda DAO is for the economically disadvantaged. Anyone who lives paycheck-to-pa
 
 ## Get Started
 
-* Create your [Wallet](https://), or connect a new ETH wallet (recommended).
-* Connect a Lens profile to Tanda DAO.
-* Join a League funding level.
-* Pick a Cycle of time.
-* Create a new Pact for your comrades.
-
-It is just that simple!
-
-Imagine you are in a financial emergency and need funds now! You could form a Tanda DAO pact with your comrades and get the first payout. Your comrades are willing to accept that level of risk because they "trust" your Lens linked profile.
-
-EXAMPLE:
-
-Geo just hung up the phone with the vetrinarian. Geo must pay $900 dollars to get their dog, named Lucky, healthy after the accident. 
-
-Geo start planning by joining a Tanda DAO!
-
-1. Geo joins a $100 League.
-2. Geo creates a Pact with 1 Month Cycles. (Vet bill due next month, can't be late!)
-3. The pact has 9 members (including Geo).
-4. Geo pays $100 a month, for the next nine (9) months.
-5. Geo is the most senior comrade in this pact.
-6. On the first cycle Geo is paid $900 dollars by the Tanda DAO Pact!
-7. The Pact ends after 9 months. No more funding cycles are paid after that.
-
-### Verify blockchain contract
-
-* DAO Contract address [xxx](https://etherscan)
-
-### Additional information
-
-Each member of the DAO must have a twitter account so they can connect their Lens  (web wallet). This requirement adds social proof and pressure to the DAO. This social identity helps fosters community and networking among DAO members.
-
-In order to join a league, and participate in those Pacts, there is a one time 10% fee per league to join and participate. This fee is used to fund insurance. Insurance is used to pay out fellow Pact members (called "comrades"). Intended as a protection if a comrade becomes hospitalized or dies before all the Pact are completed. If the fund is empty then no insurance is paid out. This is part of our known risks.
-
-Leagues are based on member funding levels. Funding levels are the amounts that members of that league expect to pay for ANY Pacts created in this league. For example a $100 dollar Pact will mean each member MUST pay $100 each cycle to their Pact Comrades.
-
-Cycles is the DAOs way of tracking funding windows. The cycle is agreed on by the Pact Comrades by accepting the Pact terms. Suggested cycles are 2 weeks or 1 month. But comrades can set ANY value they wish, even down to a day. This requirement means that the full term of the Pact is determined by the number of Pact members. For example a three (3) member pact with 1 month cycles will have a Pact term of 3 months total.
-
-Pacts charges a 3% fee (based on league funding level) to all comrades when they are created. Plus each comrade will make a 20% deposit (based on league funding level) to the DAO. This deposit is returned at the end of the Pact term. A comrades deposit will also be used in full to pay missed cycle payments and thus not returned to that comrade at the end of the Pact term.
-
-Penalties or "Strikes" are given when a Comrade fails to pay during the cycle funding window. A member with one (1) strike has all their Pact deposits and fees doubled. The second (2nd) strike will ban that member (Lens  wallet address) for life. A member can have strikes removed by paying his debt owed to the comrades plus "Apology" payment. The member will pay seven (7) times the amount they forfeited. This will be split amongst the Comrades they defaulted on.
+*...Moved to the [Wiki](https://github.com/Trewaters/Tanda-DAO/wiki/Get-Started-with-Tanda-DAO)*
 
 ## DEVELOPER SECTION 🔽
 
