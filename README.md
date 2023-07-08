@@ -102,6 +102,8 @@ Run ` ` for a dev server. Navigate to `http://localhost:4200/`. The application 
 
 type: `bagels` in the root directory of the project. Window to `http://localhost:9091/` will open to view the contract prototype and GUI.
 
+**"t3Frontend"** is for prototyping the front end to Tanda DAO. Uses the Next.js React framework.
+
 ## Code scaffolding
 
 ## Build
