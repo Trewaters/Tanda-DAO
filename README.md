@@ -8,11 +8,31 @@ Tanda DAO [version 1.0.0](https://badge.fury.io/hooks/github)
 
 [Camp Buidl Code Camp POAP](https://app.poap.xyz/token/6513719)
 
-Tanda DAO allows members to join Pacts, which are contractual agreements among members. A Pact obligates each member to pay an agreed-upon amount for an agreed upon time. Each member gets a set lump sum payout once until everyone is paid back.
+Tanda DAO allows members to join **Pacts**. Pacts are agreements among members, we call **comrades**. A Pact obligates each comrade to pay the agreed-upon amount for an agreed upon period of time, called a **cycle**. Each member gets a set lump sum payout once until everyone is paid back.
 
 Tanda DAO is for the economically disadvantaged. Anyone who lives paycheck-to-paycheck could use this.
 
-## Getting Started
+## What is Tanda DAO?
+
+Tanda DAO allows users get funds from their community when they need it. Everyone pays back what they borrow. Tanda DAO teaches members to budget and build savings while they receive funds they can use for bills, etc.
+
+### How can Tanda DAO help?
+
+Tanda DAO can help anyone that doesn't have funds in a savings account. If you are out of funds before your next paycheck this peer-to-peer lending DAO will teach you financial independence. How to get out of credit card debt with the same paycheck and the assistance of your comrades.
+
+**Why is Tanda useful?**
+
+DAO funding in a straight forward and secure way. The app offers the following benefits:
+
+* a platform for comrades to pool their resources and invest in high-income ventures, when normally could not afford the investment on their own.
+
+* Fosters community and networking by requiring each member to have a social account, like Lens, connected to their EVM wallet.
+
+* Offers insurance protection to comrades in case of unforeseen circumstances. Encourages financial responsibility and accountability.
+
+* Enables members to plan for their future by knowing the date of their pay-out and making big plans based on it.
+
+## Get Started
 
 * Create your [Wallet](https://), or connect a new ETH wallet (recommended).
 * Connect a Lens profile to Tanda DAO.
@@ -22,7 +42,7 @@ Tanda DAO is for the economically disadvantaged. Anyone who lives paycheck-to-pa
 
 It is just that simple!
 
-Imagine you are in a financial emergency and need money now! You could form a Tanda DAO pact with your comrades and get the first payout. Your comrades are willing to accept that level of risk because they "trust" your Lens linked profile.
+Imagine you are in a financial emergency and need funds now! You could form a Tanda DAO pact with your comrades and get the first payout. Your comrades are willing to accept that level of risk because they "trust" your Lens linked profile.
 
 EXAMPLE:
 
@@ -38,33 +58,11 @@ Geo start planning by joining a Tanda DAO!
 6. On the first cycle Geo is paid $900 dollars by the Tanda DAO Pact!
 7. The Pact ends after 9 months. No more funding cycles are paid after that.
 
-## Deployment
+### Verify blockchain contract
 
-* Contract address [xxx](https://etherscan)
+* DAO Contract address [xxx](https://etherscan)
 
-## What is Tanda DAO?
-
-Tanda DAO allows users get money from their community when they need it. Everyone pays back what they borrow. Tanda DAO teaches members to budget and build savings while they get money to use for bills.
-
-## How can Tanda DAO help?
-
-Tanda DAO can help anyone that doesn't have money in a savings account. If you are out of money before your next paycheck this peer-to-peer lending DAO will teach you financial independence. How to get out of Credit Card debt with the same paycheck and the assistance of your comrades.
-
-Why is Tanda useful?
-
-DAO funding in a straightforward and secure way. The app offers the following
-
-benefits:
-
-* Provides a platform for comrades to pool their resources and invest in high-income ventures, when normally could not afford the investment on their own.
-
-* Fosters community and networking among DAO members by requiring each to have a Lens Profile connected to their EVM wallet.
-
-* Offers protection to comrades in case of unforeseen circumstances and encourages financial responsibility and accountability among members.
-
-* Enables members to plan for their future by knowing the date of their pay-out and making big plans based on it.
-
-## Additional information
+### Additional information
 
 Each member of the DAO must have a twitter account so they can connect their Lens  (web wallet). This requirement adds social proof and pressure to the DAO. This social identity helps fosters community and networking among DAO members.
 
@@ -76,19 +74,18 @@ Cycles is the DAOs way of tracking funding windows. The cycle is agreed on by th
 
 Pacts charges a 3% fee (based on league funding level) to all comrades when they are created. Plus each comrade will make a 20% deposit (based on league funding level) to the DAO. This deposit is returned at the end of the Pact term. A comrades deposit will also be used in full to pay missed cycle payments and thus not returned to that comrade at the end of the Pact term.
 
-Penalties or "Strikes" are given when a Comrade fails to pay during the cycle funding window. A member with one (1) strike has all their Pact deposits and fees doubled. The second (2nd) strike will ban that member (Lens  wallet address) for life. A member can have strikes removed by paying his debt owed to the comrades plus "Apology" money. The member will pay seven (7) times the amount they forfeited. This will be split amongst the Comrades they defaulted on.
+Penalties or "Strikes" are given when a Comrade fails to pay during the cycle funding window. A member with one (1) strike has all their Pact deposits and fees doubled. The second (2nd) strike will ban that member (Lens  wallet address) for life. A member can have strikes removed by paying his debt owed to the comrades plus "Apology" payment. The member will pay seven (7) times the amount they forfeited. This will be split amongst the Comrades they defaulted on.
 
 ## DEVELOPER SECTION 🔽
-
 
 If you are not familiar with the different technologies used in this project, please refer to the respective docs. 
 
 - [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
 - [TypeScript](https://www.typescriptlang.org)
+- [NextAuth.js](https://next-auth.js.org)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Prisma](https://prisma.io)
+- [tRPC](https://trpc.io)
 - [T3 Stack, docs](https://create.t3.gg/)
 - [T3 Stack, tutorials](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available)
 
@@ -96,15 +93,13 @@ If you are not familiar with the different technologies used in this project, pl
 
 **"[main](https://github.com/Trewaters/Tanda-DAO)"** branch is for development of the front end to Tanda DAO.
 
-Run ` ` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `npm run dev` for a dev server. Navigate to `http://localhost:3000/`. The application will automatically reload if you change any of the source files.
 
 **"[bagelsProto](https://github.com/Trewaters/Tanda-DAO/tree/bagelsProto)"** branch is for prototyping the solidity contract. I would like to learn Polygon too because it is more cost effective. [bagels](https://github.com/Alex-Neo-Projects/bagels) is a solidity scaffolding project in alpha. I heard about it at ETH Denver 2023. Join their Discord and help this two dev OSS project buidl. Slides from their [presentation](https://docs.google.com/presentation/d/1Vu4-oC52tJloBiP8bzF1oEgv2dQiuGFWVwyaRIZCSX0/edit#slide=id.g2111c514ece_0_7).
 
 type: `bagels` in the root directory of the project. Window to `http://localhost:9091/` will open to view the contract prototype and GUI.
 
 **"[t3Frontend](https://github.com/Trewaters/Tanda-DAO/tree/t3Frontend)"** is for prototyping the front end to Tanda DAO. Uses the Next.js React framework.
-
-## Code scaffolding
 
 ## Build
 
@@ -131,6 +126,8 @@ https://abhik.hashnode.dev/nextjs-13-using-next-auth-the-web3-way
 
 ## Roadmap
 
+See the [open issues](https://github.com/Trewaters/Tanda-DAO/issues) for a list of proposed features (and known issues).
+
 ### Deploy app to live host.
 
 Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
@@ -139,7 +136,7 @@ Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/ver
 
 Basic User Stories [Miro Board](https://miro.com/app/board/uXjVM4X4LLg=/?share_link_id=745750687411)
 
-User: 
+#### User: 
 
 **Wallet address**
 User MUST HAVE an Ethereum wallet.
@@ -153,7 +150,7 @@ A user can upload an image to be used as their avatar. This image will be displa
 **Social Account**
 A user can connect their social accounts to their DAO profile. Tanda DAO will focus on decentralized social accounts like Lens and others.
 
-DAO:
+#### DAO:
 
 **DAO Constitution**
 The DAO will have a constitution that all members must agree to. This will be a living document that can be changed by the DAO members.
@@ -170,7 +167,7 @@ The DAO will have a credit score for each member. This score will be based on th
 **Communication System**
 The DAO will have a communication system that allows members to communicate with each other. This will be a forum style system that allows members to post and reply to posts. This will be a living document that can be changed by the DAO members.
 
-Reports:
+#### Reports:
 
 **View History**
 A user can view their history of Pacts, Comrades, and strikes. See current DAO funding levels, insurance balance and other DAO financial stats.
@@ -178,12 +175,12 @@ A user can view their history of Pacts, Comrades, and strikes. See current DAO f
 **compare comrades**
 A user can compare the history of their comrades while deciding on how to form their pact.
 
-Transact:
+#### Transact:
 
 **Funding**
 View the current pact transaction details and the entire history transactions for the current Pact.
 
-Completion:
+#### Completion:
 
 **Audit**
 The user can audit their current pact for any inaccuracies or errors. A user can also audit the DAO to ensure that the DAO is operating as it should. This will be a living document that can be changed by the DAO members.
