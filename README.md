@@ -14,7 +14,7 @@ Tanda DAO is for the economically disadvantaged. Anyone who lives paycheck-to-pa
 
 ## What is Tanda DAO?
 
-*...Moved to the [Wiki](https://github.com/Trewaters/Tanda-DAO/wiki/What-is-Tanda-DAO%3F)*
+*...Moved to the [Wiki](https://github.com/Trewaters/Tanda-DAO/wiki/What-is-Tanda-DAO%3F#what-is-tanda-dao)*
 
 ## Get Started
 
@@ -65,6 +65,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 See the [open issues](https://github.com/Trewaters/Tanda-DAO/issues) for a list of proposed features (and known issues).
 
+* Developer share folder [here](https://drive.google.com/drive/folders/1cMDCUY1gRIbGWLx_5NVImwNSK652Df68?usp=sharing)
 
 * Discussion Group at [Sending.Me](https://app.sending.me/share/?squad=!rRMhRHDCVbncdsvReE:hs.sending.me&via=hs.sending.me) Web3 messaging. Discord clone for Tanda DAO. Testing this app for a future integration.
 
@@ -78,7 +79,13 @@ https://abhik.hashnode.dev/nextjs-13-using-next-auth-the-web3-way
 
 Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
 
-### User Stories
+### DESIGN: Wire Frames
+
+I don't know how to use Figma very well, but I am learning. I will update this section as I learn more.
+
+Currently I made my wireframe drafts in Google slides, [found here](https://docs.google.com/presentation/d/1jjj1viJMF_x9m7b-WSSc11u-7rxa7PEbc0YzhnRJTWw/edit?usp=sharing). These are the pages and components I plan to make as this project develops.
+
+### DESIGN: User Stories
 
 Basic User Stories [Miro Board](https://miro.com/app/board/uXjVM4X4LLg=/?share_link_id=745750687411)
 
