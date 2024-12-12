@@ -1,5 +1,7 @@
 # Tanda DAO
 
+![Build Status](https://github.com/OWNER/REPO/actions/workflows/your-workflow.yml/badge.svg)
+
 [![GitHub version](https://badge.fury.io/gh/Trewaters%2FACDao.svg)](https://badge.fury.io/gh/Trewaters%2FACDao)
 
 Tanda DAO [version 1.0.0](https://badge.fury.io/hooks/github)
